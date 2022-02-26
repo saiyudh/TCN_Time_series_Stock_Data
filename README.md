@@ -26,7 +26,8 @@ A total of 8915 instances over 82 attributes.
 ## Results
 The visualization showed TCN and CNN were the top two performers.
 
-##Future Improvements 
-*lack of Randomization
-*low number of epochs 
-*models not complex enough
+## Future Improvements 
+
+* lack of Randomization
+* low number of epochs 
+* models not complex enough
