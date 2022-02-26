@@ -28,6 +28,6 @@ The visualization showed TCN and CNN were the top two performers.
 
 ## Future Improvements 
 
-* lack of Randomization
-* low number of epochs 
-* models not complex enough
+* More Randomization
+* increase number of epochs 
+* make models more complex enough
